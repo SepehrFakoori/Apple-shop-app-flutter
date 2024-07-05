@@ -1,16 +1,29 @@
-# ecommerce_flutter_application
+# Apple shop application using Flutter + GetIt + Payment (ZarinPal)
 
-A new Flutter project.
+## Descriptions
+👋 Hey there!
 
-## Getting Started
+As part of my Flutter course, I developed an app for some practice. I used Bloc as state manager and GetIt for dependency injection and ZarinPal payment with Dio requests. Overall, I'm pretty excited about how this project turned out and I hope you will enjoy it too! ❤️
 
-This project is a starting point for a Flutter application.
+## ScreenShots
+<br />
+<div>
+  &emsp;&emsp;&emsp;
+  <img src="https://github.com/SepehrFakoori/Apple-shop-app-flutter/blob/13a1792a350b76c3772033a1061ed53d93bfb729/assets/ui_images/login.png" alt="Login Screen" width="180">
+  &emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/SepehrFakoori/Apple-shop-app-flutter/blob/13a1792a350b76c3772033a1061ed53d93bfb729/assets/ui_images/signup.png" alt="Register Screen" width="180">  
+  &emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/SepehrFakoori/Apple-shop-app-flutter/blob/13a1792a350b76c3772033a1061ed53d93bfb729/assets/ui_images/home.png" alt="Home Screen" width="180">
+   &emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/SepehrFakoori/Apple-shop-app-flutter/blob/13a1792a350b76c3772033a1061ed53d93bfb729/assets/ui_images/category.png" alt="Category Screen" width="180">
+   &emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/SepehrFakoori/Apple-shop-app-flutter/blob/13a1792a350b76c3772033a1061ed53d93bfb729/assets/ui_images/basket.png" alt="Basket Screen" width="180">
+  &emsp;&emsp;&emsp;&emsp;
+  <img src="https://github.com/SepehrFakoori/Apple-shop-app-flutter/blob/13a1792a350b76c3772033a1061ed53d93bfb729/assets/ui_images/item.png" alt="Item Screen" width="180">
+</div>
+<br />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## My Socials:
+* [INSTAGRAM](https://www.instagram.com/sepehrfakoori)
+* [LINKEDIN](https://www.linkedin.com/in/sepehrfakoori)
+* [CONTACT ME](https://sepehrfakoori99@gmail.com)
