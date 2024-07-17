@@ -1,7 +1,6 @@
 # Apple shop application using Flutter + GetIt + Payment (ZarinPal)
 
 ## Descriptions
-👋 Hey there!
 
 As part of my Flutter course, I developed an app for some practice. I used Bloc as state manager and GetIt for dependency injection and ZarinPal payment with Dio requests. Overall, I'm pretty excited about how this project turned out and I hope you will enjoy it too! ❤️
 
@@ -24,6 +23,5 @@ As part of my Flutter course, I developed an app for some practice. I used Bloc 
 <br />
 
 ## My Socials:
-* [INSTAGRAM](https://www.instagram.com/sepehrfakoori)
 * [LINKEDIN](https://www.linkedin.com/in/sepehrfakoori)
 * [CONTACT ME](https://sepehrfakoori99@gmail.com)
